@@ -1,9 +1,0 @@
-Timestamp,Module,Alert Type,Severity,Details
-2026-11-08 22:05:33,Process Analyzer,Suspicious Parent-Child Process,HIGH,PowerShell was launched by an unexpected parent process.
-2026-11-08 22:05:33,Security Event Monitor,Credential Manager Access,MEDIUM,Windows Event ID 5379 was detected.
-2026-11-08 22:05:52,Process Analyzer,Suspicious Parent-Child Process,HIGH,PowerShell was launched by an unexpected parent process.
-2026-11-08 22:05:52,Security Event Monitor,Credential Manager Access,MEDIUM,Windows Event ID 5379 was detected.
-2026-11-08 22:41:44,Process Analyzer,Suspicious Parent-Child Process,HIGH,PowerShell was launched by an unexpected parent process.
-2026-11-08 22:41:44,Security Event Monitor,Credential Manager Access,MEDIUM,Windows Event ID 5379 was detected.
-2026-11-08 23:41:57,Process Analyzer,Suspicious Parent-Child Process,HIGH,PowerShell was launched by an unexpected parent process.
-2026-11-08 23:41:57,Security Event Monitor,Credential Manager Access,MEDIUM,Windows Event ID 5379 was detected.
